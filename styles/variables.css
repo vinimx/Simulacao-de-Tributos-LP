@@ -1,0 +1,17 @@
+/* Variáveis globais de estilo */
+
+:root {
+    /* Cores principais */
+    --cor-primaria: #0000FF;
+    --cor-secundaria: #219B9D;
+    --background-color: #f0f4ff;
+    --cor-texto: #1a237e;
+    --cor-borda: rgba(0, 0, 255, 0.1);
+    
+    /* Sombras */
+    --sombra-suave: 0 4px 6px rgba(0, 0, 0, 0.05);
+    --sombra-destaque: 0 8px 15px rgba(0, 0, 255, 0.1);
+    
+    /* Fonte */
+    --fonte: 'Lato', sans-serif;
+} 
