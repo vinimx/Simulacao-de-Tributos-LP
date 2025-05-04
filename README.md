@@ -85,4 +85,7 @@ Desenvolvido por Marcos Vinícius Marcolino Rocha - [@vinimx](https://github.com
 
 ---
 
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 *Este projeto foi desenvolvido para fins educacionais e profissionais, com o objetivo de resolver problemas reais enfrentados no ambiente de trabalho.* 
